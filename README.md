@@ -5,9 +5,9 @@ Simple webhook that allows you to post content from scripts or resources, direct
 `Webhook URL` 
 If you do not know how to get a webhook url, follow these steps:
 
-**1)** Open the channel settings for the channel you want the webhook to be sent into.
-**2)** Go to `integrations` then navigate to `create webhook`.
-**3)** Press `copy webhook url`.
+**1)** Open the channel settings for the channel you want the webhook to be sent into.\n
+**2)** Go to `integrations` then navigate to `create webhook`.\n
+**3)** Press `copy webhook url`.\n
 **4)** You now have the webhook url in your clipboard. Paste it into the line where it says webhookURL = ""
 
 `Language`
