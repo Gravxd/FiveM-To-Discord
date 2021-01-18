@@ -1,7 +1,7 @@
 webhookURL = 'webhook url goes here' -- Follow the instructions in the readme file if you don't know what this is!
 name = 'name for the webhook'
 message = 'Your message here' 
-
+title = 'new command!'
 
 footer = 'https://github.com/Gravxd/FiveM-To-Discord'
 function sendToDisc(title, message, footer)
